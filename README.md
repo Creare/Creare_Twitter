@@ -1,9 +1,7 @@
 Creare_Twitter
 ==============
 
-Using twitteroauth - a quick class to echo out your tweets and customise the tweet content (links / # / @)
-
-Twitter API version 1.1
+Using twitteroauth - a quick class to echo out your tweets and customise the tweet content (links / # / @). Compatible with Twitter API 1.1 and useable in any PHP framework.
 
 Choose your username and number of tweets to return
 
