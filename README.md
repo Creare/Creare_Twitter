@@ -10,7 +10,7 @@ Choose your username and number of tweets to return
 Features the ability to change the content of the tweets that are returned.
 
 - Allow links (true/false)
-- Link up hashtahs (true/false)
+- Link up hashtags (true/false)
 - Link up mentions (true/false)
 - Open all links in new window (true/false)
 
