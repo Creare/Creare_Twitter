@@ -10,19 +10,19 @@ $twitter = new Creare_Twitter();
 # these property overrides                               #
 ##########################################################
 
-// username and number of tweets you want to return
+# username and number of tweets you want to return
 
 $twitter->screen_name = "creareseo";
 $twitter->not = 1;
 
-// twitter credentials - check https://www.creare.co.uk/whatever-happened-to-twitters-latest-tweets for a how-to
+# twitter credentials - check https://www.creare.co.uk/whatever-happened-to-twitters-latest-tweets for a how-to
 
 $twitter->consumerkey = "XXXX";
 $twitter->consumersecret = "XXXX";
 $twitter->accesstoken = "XXXX";
 $twitter->accesstokensecret = "XXXX";
 
-// cache file
+# cache file
 	
 $twitter->cachefile = $_SERVER['DOCUMENT_ROOT']."/twitter/twitter.txt";
 
